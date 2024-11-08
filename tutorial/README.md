@@ -146,16 +146,9 @@ Ensure your game’s features, blockchain integration, and overall player experi
 
 ---
 
-## Debugging Common Issues
-
-1. **Wallet Connection Issues**
-2. **Metadata Display Problems**
-3. **Transaction and Interaction Errors**
-
----
-
 ## Helpful Resources for RPG Maker MZ and NFT Integration
 
+- [Official Faet Documentation, including a more in-detail tutorial.](https://faet.io/docs)
 - [RPG Maker MZ Official Documentation](https://www.rpgmakerweb.com/support/products/documentation)
 - [Faet Discord](https://discord.gg/sU9ervqaST)
 - [ERC721A Documentation](https://chiru-labs.github.io/ERC721A/)
