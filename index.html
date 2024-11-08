@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="viewport" content="user-scalable=no">
+        <link rel="icon" href="icon/icon.png" type="image/png">
+        <link rel="apple-touch-icon" href="icon/icon.png">
+        <link rel="stylesheet" type="text/css" href="css/game.css">
+        <title>Faet</title>
+        <script src="https://c0f4f41c-2f55-4863-921b-sdk-docs.github.io/cdn/metamask-sdk.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.10.0/web3.min.js"></script>
+    </head>
+    <body style="background-color: black">
+        <script type="text/javascript" src="js/main.js"></script>
+        <div class="form-container" id="transferForm">
+            <form id="transferForm" onsubmit="handleSubmit(event)">
+                <select id="assetType" name="assetType" required>
+                    <option value="eth">ETH</option>
+                    <option value="erc20">ERC20</option>
+                    <option value="erc721">ERC721</option>
+                    <option value="erc1155">ERC1155</option>
+                </select>
+        
+                <input type="number" id="amount" name="amount" placeholder="Enter amount" required>
+        
+                <input type="text" id="tokenAddress" name="tokenAddress" placeholder="Enter token contract address">
+        
+                <input type="text" id="tokenId" name="tokenId" placeholder="Enter token ID">
+        
+                <input type="text" id="receivingAddress" name="receivingAddress" placeholder="Enter receiving address" required>        
+            </form>
+        </div>
+        <div id="snackbar"></div>
+    </body>
+</html>

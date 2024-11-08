@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Frontier Town","order":1,"parentId":0,"scrollX":1543.3333333333333,"scrollY":323},
+null,
+null,
+null,
+null,
+{"id":6,"expanded":true,"name":"Town Hall","order":9,"parentId":1,"scrollX":1618,"scrollY":896,"quick":false},
+{"id":7,"expanded":false,"name":"Town Hall Basement ","order":11,"parentId":19,"scrollX":759.3333333333334,"scrollY":319,"quick":false},
+{"id":8,"expanded":false,"name":"Church ","order":2,"parentId":1,"scrollX":1012.4444444444445,"scrollY":510.6666666666667,"quick":false},
+{"id":9,"expanded":true,"name":"Tavern","order":3,"parentId":1,"scrollX":1233.8181818181818,"scrollY":490.3636363636364,"quick":false},
+{"id":10,"expanded":false,"name":"Tavern Basement ","order":5,"parentId":18,"scrollX":759.3333333333334,"scrollY":319,"quick":false},
+{"id":11,"expanded":true,"name":"Morgrim's Tent","order":12,"parentId":1,"scrollX":1075.3333333333333,"scrollY":598,"quick":false},
+{"id":12,"expanded":false,"name":"WildKin Hole","order":8,"parentId":1,"scrollX":1618,"scrollY":896,"quick":false},
+null,
+{"id":14,"expanded":true,"name":"14's Lab","order":7,"parentId":20,"scrollX":754,"scrollY":305,"quick":false},
+{"id":15,"expanded":false,"name":"Barrons Tent","order":13,"parentId":11,"scrollX":1005.3333333333334,"scrollY":399.55555555555554,"quick":false},
+{"id":16,"expanded":true,"name":"Frontier Town Race","order":14,"parentId":1,"scrollX":1620.4444444444443,"scrollY":640.4444444444445},
+null,
+{"id":18,"expanded":true,"name":"Tavern / Basement Hall","order":4,"parentId":9,"scrollX":754,"scrollY":305,"quick":false},
+{"id":19,"expanded":true,"name":"Town Hall / Basement Hallway","order":10,"parentId":6,"scrollX":1005.3333333333334,"scrollY":406.6666666666667,"quick":false},
+{"id":20,"expanded":true,"name":"Tavern/ 14's Lab Hall","order":6,"parentId":9,"scrollX":754,"scrollY":305,"quick":false}
+]
