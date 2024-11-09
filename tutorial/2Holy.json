@@ -1,0 +1,51 @@
+{
+    "actorData": {
+        "battlerName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmV7XoZqjSMEft7DUjyPq4UtRThENKbPd8WZTdehSx6nnz",
+        "characterIndex": 0,
+        "characterName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTFSXEtQxfVe7UBa5V1Qa5udendXTQoQvgd6QmAPvp1kk",
+        "classId": 13,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTdnbphfURKsHYH749o4cF1pf3nwe6S7CPFFQRBvSkEdb",
+        "id": 1,
+        "initialLevel": 1,
+        "maxLevel": 3,
+        "name": "Holy One",
+        "nickname": "",
+        "note": "",
+        "profile": "",
+        "traits": []
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "woods"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Actor1_1"
+        }
+    ],
+    "classId": 1,
+    "compiler": "NFTexport.io",
+    "description": "Holy One",
+    "external_url": "",
+    "image": "ipfs://QmTR3efeaZdt7wmLatRaZ9aHAC2xn2NwmZEDzSScBkT3EY",
+    "name": "Holy One",
+    "properties": {
+        "category": "image",
+        "creators": [],
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "1.png"
+            }
+        ]
+    }
+}

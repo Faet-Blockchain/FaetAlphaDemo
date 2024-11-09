@@ -1,0 +1,51 @@
+{
+    "actorData": {
+        "battlerName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmZJj5q1Csdp1YEgYcofTeax2VrqCARZaHhXF6f86Vpt7d",
+        "characterIndex": 3,
+        "characterName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTFSXEtQxfVe7UBa5V1Qa5udendXTQoQvgd6QmAPvp1kk",
+        "classId": 15,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 3,
+        "faceName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTdnbphfURKsHYH749o4cF1pf3nwe6S7CPFFQRBvSkEdb",
+        "id": 4,
+        "initialLevel": 1,
+        "maxLevel": 3,
+        "name": "Order Knight",
+        "nickname": "",
+        "note": "",
+        "profile": "",
+        "traits": []
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "woods"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Actor1_4"
+        }
+    ],
+    "classId": 5,
+    "compiler": "NFTexport.io",
+    "description": "Order Knight",
+    "external_url": "",
+    "image": "ipfs://Qmc8YkUp5WmN2Ki3MCdQd9usuah7rAwNeevPSo8yc6ikvV",
+    "name": "Order Knight",
+    "properties": {
+        "category": "image",
+        "creators": [],
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "4.png"
+            }
+        ]
+    }
+}

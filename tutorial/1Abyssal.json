@@ -1,0 +1,51 @@
+{
+    "actorData": {
+        "battlerName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmPc2EN9xUr2uMGPaLE5vYhUg8Yvy66krtCA9gXXoVShnV",
+        "characterIndex": 1,
+        "characterName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTFSXEtQxfVe7UBa5V1Qa5udendXTQoQvgd6QmAPvp1kk",
+        "classId": 12,
+        "equips": [
+            0,
+            0,
+            0,
+            9,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTdnbphfURKsHYH749o4cF1pf3nwe6S7CPFFQRBvSkEdb",
+        "id": 3,
+        "initialLevel": 1,
+        "maxLevel": 3,
+        "name": "Abyssal",
+        "nickname": "",
+        "note": "",
+        "profile": "",
+        "traits": []
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "woods"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Actor1_2"
+        }
+    ],
+    "classId": 1,
+    "compiler": "NFTexport.io",
+    "description": "Abyssal",
+    "external_url": "",
+    "image": "ipfs://Qme3YfCzgRTnmguuXG5jgwHPhu5ftF96yGD3i6YE57uJus",
+    "name": "Abyssal",
+    "properties": {
+        "category": "image",
+        "creators": [],
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "3.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "actorData": {
+        "battlerName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmNmF6wZUvL1Hv4kjAPRJVjMXu3UHHHmN4PoGYpTKLttfg",
+        "characterIndex": 2,
+        "characterName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTFSXEtQxfVe7UBa5V1Qa5udendXTQoQvgd6QmAPvp1kk",
+        "classId": 14,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 2,
+        "faceName": "https://plum-acute-gecko-646.mypinata.cloud/ipfs/QmTdnbphfURKsHYH749o4cF1pf3nwe6S7CPFFQRBvSkEdb",
+        "id": 2,
+        "initialLevel": 1,
+        "maxLevel": 3,
+        "name": "Mystic",
+        "nickname": "",
+        "note": "",
+        "profile": "",
+        "traits": []
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "noon"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Actor1_3"
+        }
+    ],
+    "classId": 5,
+    "compiler": "NFTexport.io",
+    "description": "Mystic",
+    "external_url": "",
+    "image": "ipfs://QmdDT4RLFEFbeWnCNZTkLHPZprayhn4jDuqN1wcXMecfdN",
+    "name": "Mystic",
+    "properties": {
+        "category": "image",
+        "creators": [],
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "2.png"
+            }
+        ]
+    }
+}
