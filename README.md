@@ -18,5 +18,5 @@ Modern game platforms are rejecting NFT-based games, leaving indie developers wi
 Join the Web3 gaming revolution and shape the future of decentralized game development with Faet!
 
 🔗 **Website**: [faet.io](http://www.faet.io)  
-📄 **Whitepaper**: Coming Soon  
-👾 **Discord**: Coming Soon  
+📄 **Whitepaper**: [Whitepaper](http://www.faet.io/whitepaper.pdf) 
+👾 **Discord**: [Faet Discord](https://discord.gg/t88HmN52Nd)
